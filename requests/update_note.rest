@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/notes/67859fa35ae29d39c245ef64
+Content-Type: application/json
+
+{
+    "content": "VSCODE REST CLIENT IS SO GREAT!",
+    "important": true
+}
